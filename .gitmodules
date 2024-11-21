@@ -1,0 +1,9 @@
+[submodule "libraflow-fe"]
+	path = libraflow-fe
+	url = https://github.com/phaspez/libraflow-fe
+[submodule "libraflow-be"]
+	path = libraflow-be
+	url = https://github.com/phaspez/libraflow-be
+[submodule "libraflow-admin"]
+	path = libraflow-admin
+	url = https://github.com/phaspez/libraflow-admin
